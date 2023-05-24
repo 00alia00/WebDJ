@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "Web DJ",
+  "short_name": "web-dj-pwa",
   "icons": [
     {
       "src": "./icon-256.png",
